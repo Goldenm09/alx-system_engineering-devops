@@ -1,1 +1,2 @@
-chow betty
+#!/bin/bash
+chown betty
