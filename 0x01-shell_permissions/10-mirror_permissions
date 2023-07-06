@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --referece=ello hellow
+chmod --referece=ello hello
